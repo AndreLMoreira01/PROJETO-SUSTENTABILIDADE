@@ -1,0 +1,61 @@
+id_desmatamento_fatos;data_alerta;area_km2;municipio;bioma;nome_fonte
+41;2021-06-10;1089.30;Altamira;Amazônia;"ICMBio – Dados Abertos"
+44;2022-03-05;1421.80;Altamira;Amazônia;"ICMBio – Dados Abertos"
+57;2019-07-30;289.50;Altamira;Amazônia;"ICMBio – Dados Abertos"
+60;2021-02-26;189.90;Altamira;Amazônia;"ICMBio – Dados Abertos"
+45;2020-05-19;529.40;"Porto Velho";Amazônia;"ICMBio – Dados Abertos"
+52;2020-10-09;268.10;"Porto Velho";Amazônia;"ICMBio – Dados Abertos"
+59;2020-12-03;251.00;"Porto Velho";Amazônia;"ICMBio – Dados Abertos"
+42;2021-07-22;742.60;Manicoré;Amazônia;"ICMBio – Dados Abertos"
+48;2022-11-03;695.20;Manicoré;Amazônia;"ICMBio – Dados Abertos"
+54;2021-03-13;452.70;Manicoré;Amazônia;"ICMBio – Dados Abertos"
+43;2020-08-15;663.10;Colniza;Amazônia;"ICMBio – Dados Abertos"
+49;2021-04-17;564.90;Itaituba;Amazônia;"ICMBio – Dados Abertos"
+51;2019-08-27;312.50;Itaituba;Amazônia;"ICMBio – Dados Abertos"
+33;2023-01-09;14.60;Altamira;Amazônia;"NASA FIRMS"
+21;2022-08-11;20.10;Manicoré;Amazônia;"NASA FIRMS"
+5;2022-03-01;15.20;Itaituba;Amazônia;"NASA FIRMS"
+18;2022-07-13;17.20;"Laranjal do Jari";Amazônia;"NASA FIRMS"
+6;2022-03-15;6.40;"Porto Velho";Amazônia;MapBiomas
+39;2023-03-26;15.50;Itaituba;Amazônia;MapBiomas
+10;2022-04-29;13.10;Araguaína;Amazônia;MapBiomas
+27;2022-10-19;13.70;Araguaína;Amazônia;MapBiomas
+11;2022-05-06;18.40;Altamira;Amazônia;"IBAMA - SAD"
+2;2022-01-22;12.30;Sinop;Amazônia;"IBAMA - SAD"
+30;2022-11-22;12.50;Caracaraí;Amazônia;"IBAMA - SAD"
+1;2022-01-14;8.60;Altamira;Amazônia;"INPE - DETER"
+24;2022-09-15;11.40;Altamira;Amazônia;"INPE - DETER"
+35;2023-02-04;18.90;Sinop;Amazônia;"INPE - DETER"
+15;2022-06-14;21.90;Itaituba;Amazônia;"INPE - DETER"
+50;2023-02-11;403.80;Sinop;Cerrado;"ICMBio – Dados Abertos"
+58;2023-05-18;332.10;Sinop;Cerrado;"ICMBio – Dados Abertos"
+47;2019-09-12;387.30;Caracaraí;Cerrado;"ICMBio – Dados Abertos"
+14;2022-06-03;14.70;"Porto Velho";Cerrado;MapBiomas
+3;2022-02-05;4.10;Manicoré;Cerrado;MapBiomas
+23;2022-09-03;4.90;Itaituba;Cerrado;MapBiomas
+34;2023-01-23;7.80;Manicoré;Cerrado;"IBAMA - SAD"
+28;2022-10-30;7.30;"Porto Velho";Cerrado;"INPE - DETER"
+37;2023-03-01;12.70;"Porto Velho";Pantanal;"NASA FIRMS"
+13;2022-05-27;10.80;Colniza;Pantanal;"NASA FIRMS"
+9;2022-04-16;7.50;"Laranjal do Jari";Pantanal;"NASA FIRMS"
+16;2022-06-25;19.30;Sinop;Pantanal;"IBAMA - SAD"
+26;2022-10-05;9.80;Sinop;Pantanal;"IBAMA - SAD"
+22;2022-08-26;6.70;Colniza;Pantanal;"IBAMA - SAD"
+32;2022-12-17;10.30;Colniza;Pantanal;"INPE - DETER"
+55;2023-04-05;173.60;Araguaína;Caatinga;"ICMBio – Dados Abertos"
+56;2022-09-14;198.40;Araguaína;Caatinga;"ICMBio – Dados Abertos"
+31;2022-12-04;5.90;Itaituba;Caatinga;MapBiomas
+19;2022-07-25;8.90;Araguaína;Caatinga;"IBAMA - SAD"
+40;2023-04-08;6.20;Araguaína;Caatinga;"IBAMA - SAD"
+12;2022-05-17;5.20;Manicoré;Caatinga;"INPE - DETER"
+4;2022-02-18;9.70;Colniza;Caatinga;"INPE - DETER"
+25;2022-09-27;2.60;"Rio Branco";"Mata Atlântica";"NASA FIRMS"
+36;2023-02-16;9.00;"Rio Branco";"Mata Atlântica";MapBiomas
+7;2022-03-28;3.80;"Rio Branco";"Mata Atlântica";"IBAMA - SAD"
+20;2022-08-02;16.80;Caracaraí;"Mata Atlântica";"INPE - DETER"
+46;2023-01-28;214.70;"Rio Branco";Pampa;"ICMBio – Dados Abertos"
+53;2022-06-21;241.20;"Rio Branco";Pampa;"ICMBio – Dados Abertos"
+29;2022-11-10;3.50;"Laranjal do Jari";Pampa;"NASA FIRMS"
+17;2022-07-04;23.50;"Rio Branco";Pampa;MapBiomas
+8;2022-04-07;11.90;Caracaraí;Pampa;"INPE - DETER"
+38;2023-03-14;4.40;"Laranjal do Jari";Pampa;"INPE - DETER"
